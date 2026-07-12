@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Bashanta 👋
 
-<!--
-**bashantatiwari/bashantatiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on Python, AI and machine learning.
 
-Here are some ideas to get you started:
+I enjoy building practical applications involving LLMs, RAG, computer vision and backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently Working On
+
+**[X-Lens](https://github.com/bashantatiwari/X-Lens)** — A multimodal AI application for text and image understanding using RAG, vision-language models and FastAPI.
+
+## 🚀 Selected Projects
+
+- **X-Lens** — Multimodal AI, RAG and computer vision
+- **NEPSE ML Pipeline** — Machine-learning pipeline for stock-market data
+- **Mask Video API** — Face detection and video privacy masking API
+
+## 🛠️ Technologies
+
+`Python` · `FastAPI` · `PyTorch` · `Machine Learning` · `LLMs` · `RAG` · `Computer Vision` · `Docker`
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/bashantatiwari/) · [Email](mailto:tiwaribashanta9@gmail.com)
