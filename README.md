@@ -4,7 +4,7 @@ Computer Science student focused on Python, AI and machine learning.
 
 I enjoy building practical applications involving LLMs, RAG, computer vision and backend development.
 
-## 🔭 Currently Working On
+##  Currently Working On
 
 **[X-Lens](https://github.com/bashantatiwari/X-Lens)** — A multimodal AI application for text and image understanding using RAG, vision-language models and FastAPI.
 
