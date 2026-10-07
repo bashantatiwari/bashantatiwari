@@ -6,12 +6,12 @@ I enjoy building practical applications involving LLMs, RAG, computer vision and
 
 ##  Currently Working On
 
-**[X-Lens](https://github.com/bashantatiwari/X-Lens)** — A multimodal AI application for text and image understanding using RAG, vision-language models and FastAPI.
+**[SelfGlance](https://github.com/bashantatiwari/SelfGlance)** — a desktop companion called Bond.
 
 ##  Selected Projects
 
+- **Self Glance** — a desktop companion called Bond.
 - **X-Lens** — Multimodal AI, RAG and computer vision
-- **NEPSE ML Pipeline** — Machine-learning pipeline for stock-market data
 - **Mask Video API** — Face detection and video privacy masking API
 
 ##  Technologies
