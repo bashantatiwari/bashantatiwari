@@ -6,7 +6,7 @@ I enjoy building practical applications involving LLMs, RAG, computer vision and
 
 ##  Currently Working On
 
-**[SelfGlance](https://github.com/bashantatiwari/SelfGlance)** — a desktop companion called Bond.
+**[Self Glance](https://github.com/bashantatiwari/selfglance_app)** — a desktop companion called Bond.
 
 ##  Selected Projects
 
